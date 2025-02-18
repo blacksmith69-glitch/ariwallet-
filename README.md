@@ -11,8 +11,6 @@ This bot automates the process of creating accounts and using referral codes for
 
 **Enter Referral code:** `678d128005bcf`
 
-![banner](assets/img-1.jpg)
-
 ## BOT FEATURE
 
 - Automatically generates random email addresses.
