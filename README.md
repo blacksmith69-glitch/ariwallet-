@@ -29,7 +29,7 @@ This bot automates the process of creating accounts and using referral codes for
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Kazuha787/Arichain-Reff.git && cd Arichain-Ref
+   git clone https://github.com/Kazuha787/Arichain-Reff.git && cd Arichain-Reff
    ```
 
 2. Install dependencies and setup accounts
