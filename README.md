@@ -1,15 +1,4 @@
-# Arichain-Reff
 
-An automated bot for managing multiple Arichain accounts with proxy support.
-
-## 📢 Join Our Community
-
-# Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [Arichain](https://github.com/Kazuha787/Arichain-Reff.git)
-
-This bot automates the process of creating accounts and using referral codes for the AriChain Wallet.
-
-**Enter Referral code:** `678d128005bcf`
 
 ## BOT FEATURE
 
