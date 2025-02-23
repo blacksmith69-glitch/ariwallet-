@@ -18,7 +18,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Kazuha787/Arichain-Reff.git && cd Arichain-Reff
+   git clone https://github.com/blacksmith69-glitch/ariwallet-.git && cd Arichain-Reff
    ```
 
 2. Install dependencies and setup accounts
