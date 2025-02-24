@@ -1,6 +1,6 @@
 {
-    "email": "Iphoneuser675675@gmail.com",
-    "password": "mrsy sbyf uoa gaye",
+    "email": "pakadkejhulja@gmail.com",
+    "password": "mrsy ttt uoa gaye",
     "geminiApi": "AIzaSyDONC1YB_JoJWZ9cI",
     "prompt": "What is the text in this CAPTCHA image? just answer the text",
     "captha2Apikey": "your_apikey_2captcha",
