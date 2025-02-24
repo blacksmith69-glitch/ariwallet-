@@ -16,7 +16,7 @@
    "autoreff",
    "rambeboy"
    ],
-  "author": "Rambeboy",
+  "author": "CryptoWithAryanog",
   "license": "ISC",
   "dependencies": {
     "@2captcha/captcha-solver": "^1.3.0",
