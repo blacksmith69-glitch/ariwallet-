@@ -24,7 +24,7 @@ const { prompt: $, logMessage: x, rl: a } = require(_0x559736(176)),
     chalk = require("chalk"),
     fs = require("fs");
 
-const emojis = ["💥", "⚡", "🔥", "👾", "💣"]; // List of emojis for the effect
+const emojis = ["👨‍💻", "👹", "🥱", "👾", "🥶"]; // List of emojis for the effect
 
 // Function to display a message with an emoji and random color
 function logWithEmoji(message) {
@@ -36,7 +36,7 @@ function logWithEmoji(message) {
 }
 
 function _0x1c72() {
-    let $ = ["yellow", "white", "close", "Email: ", "5870792yOQuev", "Register Account Failed", "Reff To : ", "134lyownX", "sendEmailCode", "Choose CAPTCHA solver : \n1.2Captcha\n2.Anti-Captcha\n3.Gemini\nEnter number: ", "green", "magenta", "Password : ", "\n[*] Done Sir!", "createWriteStream", "invite_code", "exports", "log", "57320snndWS", "error", "process", "3114pinhvX", "Invite Code : ", "8960xTIiVk", "How many do you want? ", "\n░█▀█░█▀▄░▀█▀░█▀▀░█░█░█▀█░▀█▀░█▀█\n░█▀█░█▀▄░░█░░█░░░█▀█░█▀█░░█░░█░█\n░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀\n     Author : Nofan Rambe\n     Welcome & Enjoy Sir!\n  ", "from", "7893290upqmJs", "message", "write", "Email : ", "./src/classes/proxy", "success", "Checkin Daily Done", "Address : ", "chalk", "registerAccount", "No Proxy. Using default IP", "address", "843164voJFAi", "accountsbot.txt", "./src/utils/logger", "repeat", "28916AElxoO", "end", "master_key", "520050Vmlrkc", "cyan", "Failed checkin daily", "accounts.txt", "result", "Password: ", "Your gemini API key has reached the limit. Please wait for the quota to reset.", "./src/utils/generator", "Enter Referral Code: ", "474CVyjnI"];
+    let $ = ["yellow", "white", "close", "Email: ", "5870792yOQuev", "Register Account Failed", "Reff To : ", "134lyownX", "sendEmailCode", "Choose CAPTCHA solver : \n1.2Captcha\n2.Anti-Captcha\n3.Gemini\nEnter number: ", "green", "magenta", "Password : ", "\n[*] Done Sir!", "createWriteStream", "invite_code", "exports", "log", "57320snndWS", "error", "process", "3114pinhvX", "Invite Code : ", "8960xTIiVk", "How many do you want? ", "\n░█▀█░█▀▄░▀█▀░█▀▀░█░█░█▀█░▀█▀░█▀█\n░█▀█░█▀▄░░█░░█░░░█▀█░█▀█░░█░░█░█\n░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀\n     Author : cryptowithAryanog\n     Welcome & Enjoy Sir!\n  ", "from", "7893290upqmJs", "message", "write", "Email : ", "./src/classes/proxy", "success", "Checkin Daily Done", "Address : ", "chalk", "registerAccount", "No Proxy. Using default IP", "address", "843164voJFAi", "accountsbot.txt", "./src/utils/logger", "repeat", "28916AElxoO", "end", "master_key", "520050Vmlrkc", "cyan", "Failed checkin daily", "accounts.txt", "result", "Password: ", "Your gemini API key has reached the limit. Please wait for the quota to reset.", "./src/utils/generator", "Enter Referral Code: ", "474CVyjnI"];
     return (_0x1c72 = function() { return $ })()
 }
 
@@ -50,7 +50,7 @@ async function main() {
 ██║  ██╗██║  ██║███████╗╚██████╔╝██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
                                                  
- Only Follow the me in https://t.me/Offical_Im_kazuha
+ Only Follow the me in https://t.me/cryptowithAryanog
 `);
     let n = await $(chalk[r(191)](r(144))),
         i = "1" === n,
