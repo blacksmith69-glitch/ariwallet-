@@ -24,7 +24,7 @@ const { prompt: $, logMessage: x, rl: a } = require(_0x559736(176)),
     chalk = require("chalk"),
     fs = require("fs");
 
-const emojis = ["👨‍💻", "👹", "🥱", "👾", "🥶"]; // List of emojis for the effect
+const emojis = ["👨‍💻", "👹", "👻", "👾", "🥶"]; // List of emojis for the effect
 
 // Function to display a message with an emoji and random color
 function logWithEmoji(message) {
