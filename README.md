@@ -1,4 +1,20 @@
-
+## Donate so i can continue my work ## 
+ Bitcoin
+```
+ bc1qea24u476mq92ecjqpyh9uu2syqpyah2x5zkhsk
+```
+Ethereum 
+```
+0xE1035Aa9faa2772C4daCC70d56CD0bF18aDBab7d
+```
+BNB
+```
+0xE1035Aa9faa2772C4daCC70d56CD0bF18aDBab7d
+```
+Solana
+```
+CSCn6JTfcgi9bXp4TtM3hsyqxVnxNgG47XkMkrQqNTH
+```
 
 ## BOT FEATURE
 
